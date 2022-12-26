@@ -1,0 +1,9 @@
+git 
+improves the visibility
+helps team collaborate around the world 
+accelerates product delivery
+allow you to compare files
+allow to merge the changes
+centralized code management 
+easy to verify which version is using by team
+
